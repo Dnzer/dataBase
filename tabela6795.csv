@@ -1,0 +1,26 @@
+﻿"Tabela 6795 - Indicador 9.4.1 - Emissão de CO2 pelo PIB"
+"Variável - Emissão de CO2 pelo PIB (Quilograma de gás carbônico equivalente por dólares PPC)"
+"";"Ano"
+"";"2020"
+"Brasil";"0,135"
+"Fonte: <div class=""WordSection1"">
+<p class=""MsoNormal"" style=""line-height: normal; text-autospace: none; margin: 2.0pt 0cm 2.0pt 0cm;"">Resultados das Estimativas Anuais de Emissões de Gases de Efeito Estufa<br />https://www.gov.br/mcti/pt-br/sirene/emissoes/emissoes-de-gee-por-setor-1<br /> <br />Dados PIB<br />https://data.worldbank.org/indicator/NY.GDP.MKTP.PP.KD?end=2019&locations=BR&name_desc=false&start=1990&view=chart</p>
+</div>"
+
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
